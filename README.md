@@ -1,3 +1,3 @@
-# goit-js-hw-02
+# goit-js-hw-03
 
-Second project js
+Third project js
